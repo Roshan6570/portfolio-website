@@ -25,8 +25,8 @@ const PROJECTS = [
     title:       'portfolio-website',
     description: 'A responsive personal portfolio website designed to showcase technical skills, projects, achievements, and contact information with a clean and professional user interface.',
     tags:          ['React', 'JavaScript', 'HTML', 'Tailwind CSS'],
-    github:      'https://github.com/yourusername/project-three',
-    demo:        'https://project-three.vercel.app',
+    github:      'https://github.com/Roshan6570/portfolio-website',
+    demo:        'https://portfolio-website-roshan-patil-04.vercel.app',
     emoji:       '💼',
   },
   {
